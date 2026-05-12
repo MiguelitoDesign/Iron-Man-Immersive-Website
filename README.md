@@ -1,4 +1,4 @@
-![Mark LXXXV Interface Preview](.public/preview.png)
+![Mark LXXXV Interface Preview](./preview.png)
 
 # Stark Industries - Mark LXXXV Cinematic Interface
 
